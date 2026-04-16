@@ -4,6 +4,9 @@
 # Per començar
 git clone https://github.com/capbussat/exemplec.git
 
+# Canvia de directori
+cd exemplec
+
 # Assegurat que tens les eines 
 sudo apt-get install build-essential
 gcc -v
