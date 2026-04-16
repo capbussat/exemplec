@@ -11,4 +11,7 @@ make -v
 
 # Compila
  gcc -o sample sample.c
+
+ # Executa
+ ./sample
  
