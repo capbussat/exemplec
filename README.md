@@ -12,6 +12,9 @@ sudo apt-get install build-essential
 gcc -v
 make -v
 
+# Edita el fitxer
+nano sample.c
+
 # Compila
  gcc -o sample sample.c
 
